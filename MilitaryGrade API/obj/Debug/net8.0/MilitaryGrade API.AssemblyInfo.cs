@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MilitaryGrade API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40ffde218091f652562136138242a9bfa4ced981")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69af18fbb5302dc622c0437998cd1653a1c58fab")]
 [assembly: System.Reflection.AssemblyProductAttribute("MilitaryGrade API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MilitaryGrade API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

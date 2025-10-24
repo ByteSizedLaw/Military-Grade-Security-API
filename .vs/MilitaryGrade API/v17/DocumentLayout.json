@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Steph\\source\\repos\\C#\\Military grade API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF8FB99-F923-452A-A1FB-C9CED76EF698}|MilitaryGrade API\\MilitaryGrade API.csproj|c:\\users\\steph\\source\\repos\\c#\\military grade api\\militarygrade api\\controllers\\dataaccessorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF8FB99-F923-452A-A1FB-C9CED76EF698}|MilitaryGrade API\\MilitaryGrade API.csproj|solutionrelative:militarygrade api\\controllers\\dataaccessorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF8FB99-F923-452A-A1FB-C9CED76EF698}|MilitaryGrade API\\MilitaryGrade API.csproj|c:\\users\\steph\\source\\repos\\c#\\military grade api\\militarygrade api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF8FB99-F923-452A-A1FB-C9CED76EF698}|MilitaryGrade API\\MilitaryGrade API.csproj|solutionrelative:militarygrade api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataAccessorController.cs",
+              "DocumentMoniker": "C:\\Users\\Steph\\source\\repos\\C#\\Military grade API\\MilitaryGrade API\\Controllers\\DataAccessorController.cs",
+              "RelativeDocumentMoniker": "MilitaryGrade API\\Controllers\\DataAccessorController.cs",
+              "ToolTip": "C:\\Users\\Steph\\source\\repos\\C#\\Military grade API\\MilitaryGrade API\\Controllers\\DataAccessorController.cs",
+              "RelativeToolTip": "MilitaryGrade API\\Controllers\\DataAccessorController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAhwDgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T09:48:36.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Steph\\source\\repos\\C#\\Military grade API\\MilitaryGrade API\\Program.cs",
+              "RelativeDocumentMoniker": "MilitaryGrade API\\Program.cs",
+              "ToolTip": "C:\\Users\\Steph\\source\\repos\\C#\\Military grade API\\MilitaryGrade API\\Program.cs",
+              "RelativeToolTip": "MilitaryGrade API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T09:48:27.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

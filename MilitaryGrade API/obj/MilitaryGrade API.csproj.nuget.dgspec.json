@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Steph\\source\\repos\\C#\\MilitaryGrade API\\MilitaryGrade API\\MilitaryGrade API.csproj": {}
+    "C:\\Users\\Steph\\source\\repos\\C#\\Military grade API\\MilitaryGrade API\\MilitaryGrade API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Steph\\source\\repos\\C#\\MilitaryGrade API\\MilitaryGrade API\\MilitaryGrade API.csproj": {
+    "C:\\Users\\Steph\\source\\repos\\C#\\Military grade API\\MilitaryGrade API\\MilitaryGrade API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Steph\\source\\repos\\C#\\MilitaryGrade API\\MilitaryGrade API\\MilitaryGrade API.csproj",
+        "projectUniqueName": "C:\\Users\\Steph\\source\\repos\\C#\\Military grade API\\MilitaryGrade API\\MilitaryGrade API.csproj",
         "projectName": "MilitaryGrade API",
-        "projectPath": "C:\\Users\\Steph\\source\\repos\\C#\\MilitaryGrade API\\MilitaryGrade API\\MilitaryGrade API.csproj",
+        "projectPath": "C:\\Users\\Steph\\source\\repos\\C#\\Military grade API\\MilitaryGrade API\\MilitaryGrade API.csproj",
         "packagesPath": "C:\\Users\\Steph\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Steph\\source\\repos\\C#\\MilitaryGrade API\\MilitaryGrade API\\obj\\",
+        "outputPath": "C:\\Users\\Steph\\source\\repos\\C#\\Military grade API\\MilitaryGrade API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Steph\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -74,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
